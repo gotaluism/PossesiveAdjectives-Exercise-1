@@ -10,8 +10,10 @@ Pagina a la cual se trato de replicar el modelo: https://www.english-4u.de/en/gr
 ![](https://github.com/gotaluism/PossesiveAdjectives-Exercise-1/blob/main/Screenshot%202022-11-28%20192708.png)
 
 
+
+
 # Como quedó
-[![Img 2]https://ibb.co/34FntSC "Img 2")](https://ibb.co/34FntSC "Img 2")
+![](https://github.com/gotaluism/PossesiveAdjectives-Exercise-1/blob/main/Screenshot%202022-11-28%20192904.png)
 
 
-Dando pequeños pasos en el html, lentos pero seguros 🔒⏱️
+Dando pequeños pasos en el html, lento pero seguros 🔒⏱️
