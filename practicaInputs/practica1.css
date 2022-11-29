@@ -1,0 +1,16 @@
+h1{
+    color:rgba(6, 6, 121, 0.808);
+    font-family: Verdana;
+    font-size: 25px;
+}
+
+p{
+    font-family: Verdana;
+    font-size: 15px;
+}
+
+input[type="text"]{
+
+    width: 80px;
+}
+
