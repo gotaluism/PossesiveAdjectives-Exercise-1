@@ -1,4 +1,4 @@
-##Duplicate of a page of practice english
+# Duplicate of a page of practice english
 
 Replica de una pagina de ingles de practica de adjetivos
 Proposito: Aprender un poco acerca de como se usan los inputs en html e hacerlos funcional a través de javascript.
@@ -6,12 +6,12 @@ Proposito: Aprender un poco acerca de como se usan los inputs en html e hacerlos
 Pagina a la cual se trato de replicar el modelo: https://www.english-4u.de/en/grammar-exercises/possessive-adjectives.htm 
 
 
-##Modelo original
-[![Img 1](https://ibb.co/RjVGHRm "Img 1")](https://ibb.co/RjVGHRm "Img 1")
+# Modelo original
+![](https://github.com/gotaluism/PossesiveAdjectives-Exercise-1/blob/main/Screenshot%202022-11-28%20192708.png)
 
 
-##Como quedó
+# Como quedó
 [![Img 2]https://ibb.co/34FntSC "Img 2")](https://ibb.co/34FntSC "Img 2")
 
 
-[url=https://ibb.co/RjVGHRm][img]https://i.ibb.co/RjVGHRm/Screenshot-2022-11-28-192708.png[/img][/url]
+Dando pequeños pasos en el html, lentos pero seguros 🔒⏱️
