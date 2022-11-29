@@ -17,47 +17,61 @@ function una(){
     var a13=document.getElementById("a13");
     var a14=document.getElementById("a14");
     let total=0;
-    if (a1="my"){
+    if (a1.value=="my"){
+        document.getElementById("b1").innerHTML="MY";
         total=total+1;
     }
-    if (a2 ="his"){
-        total=total+1;
+    if (a2.value =="his"){
+        document.getElementById("b2").innerHTML="HIS";
+        total++;
     }
-    if (a3 ="her"){
-        total=total+1;
+    if (a3.value =="her"){
+        document.getElementById("b3").innerHTML="HER";
+        total++;
     }
-    if (a4 ="its"){
-        total=total+1;
+    if (a4.value =="its"){
+        document.getElementById("b4").innerHTML="ITS";
+        total++;
     }
-    if (a5 ="our"){
-        total=total+1;
+    if (a5.value =="our"){
+        document.getElementById("b5").innerHTML="OUR";
+        total++;
     }
-    if (a6 ="my"){
-        total=total+1;
+    if (a6.value =="my"){
+        document.getElementById("b6").innerHTML="MY";
+        total++;
     }
-    if (a7 ="my"){
-        total=total+1;
+    if (a7.value =="my"){
+        document.getElementById("b7").innerHTML="MY";
+        total++;
     }
-    if (a8 ="its"){
-        total=total+1;
+    if (a8.value =="its"){
+        document.getElementById("b8").innerHTML="ITS";
+        total++;
     }
-    if (a9 ="their"){
-        total=total+1;
+    if (a9.value =="their"){
+        document.getElementById("b9").innerHTML="THEIR";
+        total++;
     }
-    if (a10 ="their"){
-        total=total+1;
+    if (a10.value =="their"){
+        document.getElementById("b10").innerHTML="THEIR";
+        total++;
     }
-    if (a11 ="his"){
-        total=total+1;
+    if (a11.value =="his"){
+        document.getElementById("b11").innerHTML="HIS";
+        total++;
     }
-    if (a12 ="her"){
-        total=total+1;
+    if (a12.value =="her"){
+        document.getElementById("b12").innerHTML="HER";
+        total++;
     }
-    if (a13 ="our"){
-        total=total+1;
+    if (a13.value =="our"){
+        document.getElementById("b13").innerHTML="OUR";
+        total++;    
     }
-    if (a14 ="its"){
-        total=total+1;
+    if (a14.value =="its"){
+        document.getElementById("b14").innerHTML="ITS";
+        total++;
     }
     alert("Tu puntaje ha sido de "+ total +"/14")
 }
